@@ -1,0 +1,43 @@
+#App{
+  background-color: rgb(23, 18, 23);
+  width: 100vw;
+  height: 100vh;
+
+  position: fixed;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+
+#map1{
+  background-color: #999;
+
+  width: 30px;
+  height: 30px;
+}
+#map2{
+  background-color: #999;
+
+  width: 30px;
+  height: 30px;
+}
+#map3{
+  background-color: #999;
+
+  width: 30px;
+  height: 30px;
+}
+#map4{
+  background-color: #999;
+
+  width: 30px;
+  height: 30px;
+}
+#map5{
+  background-color: #999;
+
+  width: 30px;
+  height: 30px;
+}
